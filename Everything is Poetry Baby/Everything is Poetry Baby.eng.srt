@@ -1,7 +1,7 @@
 1
 00:00:09,900 --> 00:00:14,074
 <i>- A ship comes stocked with...
-- With what? </i>
+- With what?</i>
 
 2
 00:00:14,100 --> 00:00:18,800
@@ -10,7 +10,7 @@
 
 3
 00:00:20,500 --> 00:00:26,110
-- Then I have to send something starting with D.
+- Then I send something starting with D.
 - Yeah.
 
 4
@@ -28,21 +28,21 @@ No, you have to stock it with
 important things.
 
 7
-00:00:46,700 --> 00:00:48,449
+00:00:46,559 --> 00:00:48,559
 What?
 
 8
-00:00:48,759 --> 00:00:55,856
+00:00:48,759 --> 00:00:55,759
 If you have a big ship to stock, you
 want important things in it.
 
 9
-00:00:55,000 --> 00:01:02,021
+00:00:55,900 --> 00:01:02,020
 You don't stock it with disco!
 Try again.
 
 10
-00:01:02,521 --> 00:01:12,562
+00:01:02,521 --> 00:01:08,521
 - Umm... A ship comes stocked then.
 - Okay, with what?
 
@@ -51,7 +51,7 @@ Try again.
 With you.
 
 12
-00:01:15,500 --> 00:01:20,000
+00:01:15,501 --> 00:01:20,000
 EVERYTHING IS POETRY BABY
 
 13
@@ -59,7 +59,7 @@ EVERYTHING IS POETRY BABY
 <i>Lina, I'm on the bus now.</i>
 
 14
-00:01:48,600 --> 00:01:56,959
+00:01:48,600 --> 00:01:54,600
 <i>I don't really know why I'm writing.
 I don't know what to say.</i>
 
@@ -122,7 +122,7 @@ I know you, what's your name?
 - Elmin... Lina.
 
 28
-00:04:23,200 --> 00:04:32,215
+00:04:23,200 --> 00:04:29,200
 Elmin and Lina...
 
 29
@@ -131,26 +131,26 @@ Elmin and Lina...
 all this time...</i>
 
 30
-00:04:45,800 --> 00:04:48,900
+00:04:45,801 --> 00:04:48,900
 <i>Shopped at the same store,
 sat on the same bus.</i>
 
 31
-00:04:48,900 --> 00:04:51,521
+00:04:48,901 --> 00:04:51,521
 <i>But never known each other.</i>
 
 32
-00:04:51,800 --> 00:05:00,199
+00:04:51,800 --> 00:04:57,800
 <i>There are so many people we don't know.
 Even though you live next to them.</i>
 
 33
-00:05:00,400 --> 00:05:07,522
+00:05:00,400 --> 00:05:06,400
 <i>I think I understand now,
-that thing you said...</i>
+that thing you said.</i>
 
 34
-00:05:18,300 --> 00:05:23,461
+00:05:18,300 --> 00:05:22,200
 Do you do this a lot?
 
 35
@@ -173,7 +173,7 @@ Kind of foolish to stop when you
 grow older.
 
 39
-00:05:43,279 --> 00:05:48,420
+00:05:43,280 --> 00:05:48,420
 For a while I was really building
 a lot.
 
@@ -198,7 +198,7 @@ a lot.
 - I mean later.
 
 44
-00:06:12,000 --> 00:06:14,000
+00:06:11,947 --> 00:06:14,000
 <i>In life.</i>
 
 45
@@ -227,7 +227,7 @@ I don't know, just a difference.
 For me, and others.
 
 51
-00:06:40,200 --> 00:06:48,438
+00:06:40,200 --> 00:06:46,200
 There are so many people we never meet.
 We should take care of those we do.
 
@@ -242,4 +242,114 @@ But I don't know... Do you?
 54
 00:07:07,200 --> 00:07:13,086
 I'm cold, tea?
+
+55
+00:07:23,000 --> 00:07:29,000
+- Where are we going?
+- I want to show you something.
+
+56
+00:08:30,200 --> 00:08:33,500
+<i>I remember that night.</i>
+
+57
+00:08:36,400 --> 00:08:41,187
+When you didn't stock right.
+
+58
+00:08:52,300 --> 00:08:54,871
+<i>Happy birthday to you...</i>
+
+59
+00:08:55,900 --> 00:08:58,833
+I like "a ship comes stocked with".
+
+60
+00:08:59,396 --> 00:09:03,594
+- It's fun to play.
+- Yeah, it is.
+
+61
+00:09:03,794 --> 00:09:07,411
+If you stock the right things.
+
+62
+00:09:07,611 --> 00:09:10,313
+You can stock it with wrong things?
+
+63
+00:09:11,000 --> 00:09:16,538
+At least it can feel like it.
+
+64
+00:09:17,138 --> 00:09:19,715
+- Get it?
+- No.
+
+65
+00:09:21,115 --> 00:09:27,115
+Well, if you stock the wrong things,
+do you unload them?
+
+66
+00:09:29,315 --> 00:09:31,198
+Can you even do that?
+
+67
+00:09:32,700 --> 00:09:37,118
+Can't you just decide that,
+since it's a game?
+
+68
+00:09:38,318 --> 00:09:40,854
+Or what do you mean?
+
+69
+00:09:44,000 --> 00:09:47,014
+<i>It has to be important things.</i>
+
+70
+00:09:47,770 --> 00:09:52,117
+<i>- A ship comes stocked then.
+- Okay, with what?</i>
+
+71
+00:09:52,800 --> 00:09:56,264
+With you.
+
+72
+00:11:50,500 --> 00:11:56,500
+- I'm leaving now.
+- Okay.
+
+73
+00:11:57,700 --> 00:12:02,097
+Everything is poetry you know.
+
+74
+00:12:51,097 --> 00:12:55,597
+<i>I think I understand now,
+what you meant.</i>
+
+75
+00:12:55,797 --> 00:12:59,352
+<i>Difference and all that.</i>
+
+76
+00:12:59,552 --> 00:13:04,852
+<i>And how you are barefoot inside your shoes.</i>
+
+77
+00:13:11,552 --> 00:13:17,033
+<i>Remember?
+Elmin.</i>
+
+78
+00:14:26,933 --> 00:14:29,124
+Hi.
+
+79
+00:14:33,323 --> 00:14:39,723
+Translation: Adam Hellberg
+www.sharparam.com
 

@@ -1,2 +1,6 @@
 # Ignore video files
 *.mp4
+
+# Ignore backup files
+*.bak
+
