@@ -1,5 +1,10 @@
 # Ignore video files
 *.mp4
+*.mkv
 
 # Ignore backup files
 *.bak
+
+# Ignore auto-generated subtitles
+auto__*
+textamig__*
