@@ -60,730 +60,196 @@ That comes to two and a half weeks of average experience per
 member of our crew.
 
 5
-00:03:02,790 --> 00:03:08,069
-hi I'm Shaun Jones I'm character
-
-65
-00:03:05,709 --> 00:03:10,989
-designer and lead animator for pyramid I
-
-66
-00:03:08,069 --> 00:03:12,879
-think the most interesting challenge in
-
-67
-00:03:10,989 --> 00:03:14,829
-the pyramid project was getting that
-
-68
-00:03:12,879 --> 00:03:17,799
-perfect balance between Egyptian
-
-69
-00:03:14,829 --> 00:03:20,650
-stylization and regular cartoon style
-
-70
-00:03:17,799 --> 00:03:23,290
-ization I looked at a lot of Egyptian
-
-71
-00:03:20,650 --> 00:03:25,689
-art and especially a lot of hieroglyphs
-
-72
-00:03:23,290 --> 00:03:28,720
-and modeled after the extreme
-
-73
-00:03:25,689 --> 00:03:32,230
-hieroglyphic stylization which is from
-
-74
-00:03:28,720 --> 00:03:35,980
-torso and an extreme profile on all
-
-75
-00:03:32,230 --> 00:03:38,879
-characters except for God's and royalty
-
-76
-00:03:35,980 --> 00:03:38,879
-which can look you and I
-
-77
-00:03:45,250 --> 00:03:47,310
-you
-
-78
-00:03:53,000 --> 00:03:58,140
-my name is Pam Curtis I'm the art
-
-79
-00:03:55,470 --> 00:04:00,840
-director made artist on pyramid here's
-
-80
-00:03:58,140 --> 00:04:03,030
-how we created the background screens we
-
-81
-00:04:00,840 --> 00:04:06,620
-try to make our background screens looks
-
-82
-00:04:03,030 --> 00:04:09,630
-very similar to the dream quest sets as
-
-83
-00:04:06,620 --> 00:04:11,880
-each level was completed at moonquest
-
-84
-00:04:09,630 --> 00:04:15,660
-Albert David and I went over to dream
-
-85
-00:04:11,880 --> 00:04:17,579
-quest and took slides of all the
-
-86
-00:04:15,660 --> 00:04:19,650
-backgrounds that we knew he would need
-
-87
-00:04:17,579 --> 00:04:21,090
-according to our design document we
-
-88
-00:04:19,650 --> 00:04:23,040
-crawled around on our hands and knees
-
-89
-00:04:21,090 --> 00:04:26,550
-had to wear special little chrome shoes
-
-90
-00:04:23,040 --> 00:04:28,410
-as to not ruin the set and we had to be
-
-91
-00:04:26,550 --> 00:04:29,580
-certain that what we were going to do is
-
-92
-00:04:28,410 --> 00:04:33,240
-going to be right because we were only
-
-93
-00:04:29,580 --> 00:04:35,960
-going to have one shot at then we would
-
-94
-00:04:33,240 --> 00:04:38,700
-take those slides with amount photo CD
-
-95
-00:04:35,960 --> 00:04:41,850
-composite them together in using
-
-96
-00:04:38,700 --> 00:04:43,530
-Photoshop primarily we went in and we
-
-97
-00:04:41,850 --> 00:04:46,710
-painted them trying to get them a little
-
-98
-00:04:43,530 --> 00:04:49,140
-less looking like a model adding a
-
-99
-00:04:46,710 --> 00:04:51,300
-little bit of room touch to it but at
-
-100
-00:04:49,140 --> 00:04:53,370
-the same time making sure that it worked
-
-101
-00:04:51,300 --> 00:04:55,290
-with what we had received from dream
-
-102
-00:04:53,370 --> 00:04:57,590
-quest and what you would see in virtual
-
-103
-00:04:55,290 --> 00:04:57,590
-quite
-
-104
-00:05:24,610 --> 00:05:26,669
-you
-
-105
-00:05:33,380 --> 00:05:35,440
-you
-
-106
-00:05:41,070 --> 00:05:43,100
-Oh
-
-107
-00:05:44,670 --> 00:05:51,030
-I came up with the instrumentation for
-
-108
-00:05:49,140 --> 00:05:54,230
-the pyramid music by doing some research
-
-109
-00:05:51,030 --> 00:05:57,660
-on traditional Middle Eastern sounds and
-
-110
-00:05:54,230 --> 00:06:00,870
-attempting to recreate them with my
-
-111
-00:05:57,660 --> 00:06:03,140
-synthesizers here in the studio also you
-
-112
-00:06:00,870 --> 00:06:06,480
-know trying to provide more orchestral
-
-113
-00:06:03,140 --> 00:06:08,610
-ambient effects and sounds along with
-
-114
-00:06:06,480 --> 00:06:11,490
-those instruments the real challenge has
-
-115
-00:06:08,610 --> 00:06:14,550
-been to try and find sounds in the
-
-116
-00:06:11,490 --> 00:06:17,130
-actual computer that can sound like that
-
-117
-00:06:14,550 --> 00:06:19,460
-most important thing I hope the music
-
-118
-00:06:17,130 --> 00:06:22,410
-will bring to the product is an
-
-119
-00:06:19,460 --> 00:06:26,010
-emotional through line from beginning to
-
-120
-00:06:22,410 --> 00:06:28,710
-end also hopefully having the ability to
-
-121
-00:06:26,010 --> 00:06:32,120
-entertain to hold the user and provide
-
-122
-00:06:28,710 --> 00:06:32,120
-an ambience of the period
-
-123
-00:06:38,889 --> 00:06:40,949
-you
-
-124
-00:06:42,220 --> 00:06:51,040
-and action metal implant does garbage
-
-125
-00:06:47,490 --> 00:06:55,810
-delicate what charms from a beast that
-
-126
-00:06:51,040 --> 00:06:57,760
-shook the ground we need watch like I
-
-127
-00:06:55,810 --> 00:06:59,980
-love the advocate all right that's a
-
-128
-00:06:57,760 --> 00:07:03,030
-keeper let's do it one more time just a
-
-129
-00:06:59,980 --> 00:07:03,030
-little bit looser
-
-130
-00:07:04,400 --> 00:07:15,850
-what a world Wow we're a little builder
-
-131
-00:07:10,940 --> 00:07:20,270
-like you could destroy my beautiful
-
-132
-00:07:15,850 --> 00:07:25,600
-wickedness I will get you in the next
-
-133
-00:07:20,270 --> 00:07:25,600
-world master builder
-
-134
-00:07:26,210 --> 00:07:32,550
-you let the caps don't pull off the side
-
-135
-00:07:29,700 --> 00:07:36,540
-you let that taps don't fall off the
-
-136
-00:07:32,550 --> 00:07:40,170
-side I've worked my entire life for this
-
-137
-00:07:36,540 --> 00:07:42,810
-moment I hope the foreman can find the
-
-138
-00:07:40,170 --> 00:07:45,870
-stone carvers in time to make another
-
-139
-00:07:42,810 --> 00:07:49,770
-capstone they were on their way home
-
-140
-00:07:45,870 --> 00:07:55,470
-last time I heard do just to pick up on
-
-141
-00:07:49,770 --> 00:08:00,350
-that one and action I do not believe
-
-142
-00:07:55,470 --> 00:08:00,350
-that a human of your heart
-
-143
+00:03:02,790 --> 00:03:47,310
+SEAN JONES:
+Hi, I'm Sean Jones, I'm character designer
+and lead animator for Pyramid.
+I think the most interesting challenge in the pyramid project
+was getting that perfect balance between Egyptian
+stylization and regular cartoon stylization.
+I looked at a lot of Egyptian art and especially a lot of
+hieroglyphs and modeled after the extreme hieroglyphic stylization
+which is >???<[1] torso and an extreme profile on all characters
+except for Gods and royalty which can look you in the eye.
+
+[1]: What word is being said?
+    frontal...something?
+    prominent?
+
+6
+00:03:53,000 --> 00:04:57,590
+My name is Pam Spertus. I'm the art director and lead artist
+on pyramid.
+Here's how we created the background screens.
+We try to make our background screens look very similar to
+the Dream Quest sets.
+As each level was completed at dreamquest Albert, David, and I
+went over to Dream Quest and took slides of all the backgrounds
+that we knew we would need according to our design document.
+We crawled around on our hands and knees, had to wear special little
+chrome shoes as to not ruin the set and we had to be certain that
+what we were going to do is going to be right because we were only
+going to have one shot at it.
+Then we would take those slides, put them on a photo CD, composite
+them together and, using Photoshop primarily, we went in and we
+painted them trying to get them a little less looking like a model,
+adding a little bit of our own touch to it but at the same time
+making sure that it worked with what we had received from Dream Quest
+and what you would see in virtual flight.
+
+7
+00:05:44,670 --> 00:06:32,120
+RANDY HALE:
+I came up with the instrumentation for the pyramid music by doing
+some research on traditional Middle Eastern sounds and attempting
+to recreate them with my synthesizers here in the studio.
+Also, you know, trying to provide more orchestral ambient effects
+and sounds along with those instruments.
+The real challenge has been to try and find sounds in the actual
+computer that can sound like that.
+Most important thing I hope the music will bring to the product
+is an emotional through-line from beginning to end.
+Also hopefully having the ability to entertain, to hold the user
+and provide an ambience of the period.
+
+8
+00:06:38,889 --> 00:07:03,030
+And action!
+Tusk carvings, delicate luck charms from a beast that shook the
+ground when it walked.
+Like I love that, all right that's a keeper.
+Let's do it one more time just a little bit looser.
+
+9
+00:07:04,400 --> 00:07:25,600
+What a world!
+What a world!
+Where a little builder like you could destroy my beautiful wickedness.
+I will get you in the next world master builder!
+
+10
+00:07:26,210 --> 00:07:55,470
+You let the capstone fall off the side?
+You let the capstone fall off the side?!
+I've worked my entire life for this moment.
+I hope the foreman can find the stone carvers in time to make another
+capstone.
+They were on their way home last time I heard.
+
+11
+00:07:49,770 --> 00:08:04,350
+Do just the pickup on that one and action!
+I did not believe that a human of your heart walked the earth.
+
+12
 00:08:15,860 --> 00:08:25,820
-4320 day yeah yeah yeah
+Four… Three… Two…
+Woah yay yeah duuh yeah wa-ho woah we-hey wa aaah.
+[Laughs]
 
-144
-00:08:29,220 --> 00:08:31,220
-Oh
+13
+00:08:29,220 --> 00:08:45,220
+Ooh
+[Gulping sounds]
+[Sounds of disgust]
+[Wheezing, laughs]
 
-145
+14
 00:08:46,940 --> 00:09:12,430
-oh it's fun being a value
-
-146
-00:09:22,400 --> 00:09:24,460
-you
-
-147
-00:09:26,550 --> 00:09:31,339
-let us find the north
-
-148
-00:09:33,710 --> 00:09:43,420
-from or I will help you at the wall let
-
-149
-00:09:40,820 --> 00:09:43,420
-us fine
-
-150
-00:09:50,819 --> 00:09:55,519
-but right now into medium or asleep
-
-151
-00:09:55,810 --> 00:10:07,779
-hi I'm have been holiday mellow yes a
-
-152
-00:10:05,190 --> 00:10:16,589
-digging around I can eat some I top shot
-
-153
-00:10:07,779 --> 00:10:18,610
-70 yeah she's your war totally cool I
-
-154
-00:10:16,589 --> 00:10:20,260
-should be cool should have different
-
-155
-00:10:18,610 --> 00:10:23,970
-assumes on the four different it's keep
-
-156
-00:10:20,260 --> 00:10:23,970
-this is that the flash between all of us
-
-157
-00:10:26,520 --> 00:10:29,790
-edited camp
-
-158
-00:10:36,700 --> 00:10:38,760
-you
-
-159
-00:10:42,830 --> 00:10:47,029
-the first anything
-
-160
-00:10:50,120 --> 00:10:52,150
-Oh
-
-161
-00:11:00,200 --> 00:11:02,260
-you
-
-162
-00:11:22,769 --> 00:11:34,149
-we forgot the first anything to be
-
-163
-00:11:26,370 --> 00:11:39,060
-repeatable and Ed a legend in whatever
-
-164
-00:11:34,149 --> 00:11:39,060
-you must be consistent food
-
-165
-00:11:45,720 --> 00:11:47,779
-you
-
-166
-00:11:47,900 --> 00:11:54,530
-I've always been fascinated by the
-
-167
-00:11:50,090 --> 00:11:56,180
-mystery and and grandeur of the pyramids
-
-168
-00:11:54,530 --> 00:11:58,550
-in ancient Egypt and to get a chance to
-
-169
-00:11:56,180 --> 00:12:00,350
-do that in miniature in a way that we
-
-170
-00:11:58,550 --> 00:12:03,320
-can actually sort of get our hands on it
-
-171
-00:12:00,350 --> 00:12:05,030
-is is very interesting it's also a lot
-
-172
-00:12:03,320 --> 00:12:06,770
-of fun you kind of feel when you're
-
-173
-00:12:05,030 --> 00:12:10,160
-building these things that you're doing
-
-174
-00:12:06,770 --> 00:12:12,770
-something that somebody else did 4,500
-
-175
-00:12:10,160 --> 00:12:15,650
-years ago on the overall table I think
-
-176
-00:12:12,770 --> 00:12:17,780
-we had something like 50 or 60 each of
-
-177
-00:12:15,650 --> 00:12:20,720
-several different kinds of tents as well
-
-178
-00:12:17,780 --> 00:12:24,830
-as about 45 or 50 individual buildings
-
-179
-00:12:20,720 --> 00:12:27,110
-and maybe 300 palm trees to finish off
-
-180
-00:12:24,830 --> 00:12:28,820
-the landscape on the table we covered
-
-181
-00:12:27,110 --> 00:12:31,190
-the entire landscape with about three
-
-182
-00:12:28,820 --> 00:12:32,630
-tons of sand that was then dressed in
-
-183
-00:12:31,190 --> 00:12:35,180
-around the pyramid all the little
-
-184
-00:12:32,630 --> 00:12:40,010
-structures nothing looks like sand
-
-185
-00:12:35,180 --> 00:12:42,050
-accepts and the most difficult technical
-
-186
-00:12:40,010 --> 00:12:44,030
-element of this project was to interface
-
-187
-00:12:42,050 --> 00:12:47,060
-the dream quest motion control system
-
-188
-00:12:44,030 --> 00:12:48,920
-with the different various techniques
-
-189
-00:12:47,060 --> 00:12:51,680
-that we're using to grab the frames for
-
-190
-00:12:48,920 --> 00:12:52,970
-displaying on the cd-rom so there's a
-
-191
-00:12:51,680 --> 00:12:55,610
-lot of things that we're learning now
-
-192
-00:12:52,970 --> 00:12:57,410
-that we haven't had to in the past we're
-
-193
-00:12:55,610 --> 00:12:59,030
-applying everything we do know about
-
-194
-00:12:57,410 --> 00:13:01,520
-making feature films in television
-
-195
-00:12:59,030 --> 00:13:04,430
-movies but the technical aspects are
-
-196
-00:13:01,520 --> 00:13:05,660
-actually quite different I feel really
-
-197
-00:13:04,430 --> 00:13:07,790
-good about the collaboration between
-
-198
-00:13:05,660 --> 00:13:10,670
-dream quest and knowledge adventure I
-
-199
-00:13:07,790 --> 00:13:14,000
-feel that we're working as a team not as
-
-200
-00:13:10,670 --> 00:13:15,590
-two separate companies everybody's been
-
-201
-00:13:14,000 --> 00:13:18,730
-really wonderful and we're all trying to
-
-202
-00:13:15,590 --> 00:13:18,730
-solve the same problems together
-
-203
-00:13:26,220 --> 00:13:28,280
-you
-
-204
-00:13:32,410 --> 00:13:37,010
-when I first saw a pyramid it took my
-
-205
-00:13:34,850 --> 00:13:39,410
-breath away I knew we wanted to publish
-
-206
-00:13:37,010 --> 00:13:41,510
-it what could be more fun for kids than
-
-207
-00:13:39,410 --> 00:13:44,060
-building a pyramid and in the process
-
-208
-00:13:41,510 --> 00:13:47,410
-they would learn about ancient egypt its
-
-209
-00:13:44,060 --> 00:13:50,930
-culture its people and its technology
-
-210
-00:13:47,410 --> 00:13:52,340
-education was the goal entertainment was
-
-211
-00:13:50,930 --> 00:13:54,770
-the way to get there the mcgraw-hill
-
-212
-00:13:52,340 --> 00:13:56,810
-Home Interactive team was convinced that
-
-213
-00:13:54,770 --> 00:13:58,400
-we could make pyramid into a product
-
-214
-00:13:56,810 --> 00:14:02,560
-that would stand the test of time and
-
-215
-00:13:58,400 --> 00:14:02,560
-lead to other exciting products
-
-216
-00:14:08,790 --> 00:14:14,010
-you
-
-217
-00:14:10,819 --> 00:14:15,660
-as producer for mcgraw-hill
-
-218
-00:14:14,010 --> 00:14:18,540
-making sure that this great product
-
-219
-00:14:15,660 --> 00:14:21,180
-design lived up to its full potential we
-
-220
-00:14:18,540 --> 00:14:23,970
-focus on several key questions are the
-
-221
-00:14:21,180 --> 00:14:26,520
-goals of the game clear are the puzzles
-
-222
-00:14:23,970 --> 00:14:28,740
-the right difficulty does a dialogue
-
-223
-00:14:26,520 --> 00:14:31,590
-make sense are there plenty of clues
-
-224
-00:14:28,740 --> 00:14:34,800
-available are there lots of fascinating
-
-225
-00:14:31,590 --> 00:14:37,230
-educational tidbits to discover and most
-
-226
-00:14:34,800 --> 00:14:40,080
-important to the players enjoy the
-
-227
-00:14:37,230 --> 00:14:43,230
-experience when we could say definitely
-
-228
-00:14:40,080 --> 00:14:46,460
-yes to all these questions then we knew
-
-229
-00:14:43,230 --> 00:14:46,460
-that the game was ready
-
-230
-00:14:52,209 --> 00:14:54,269
-you
-
-231
-00:14:54,360 --> 00:14:59,420
-in quality assurance we test the program
-
-232
-00:14:57,149 --> 00:15:02,640
-by looking at the program code and by
-
-233
-00:14:59,420 --> 00:15:05,130
-testing it for hours on end our major
-
-234
-00:15:02,640 --> 00:15:07,350
-concern is looking at whether the
-
-235
-00:15:05,130 --> 00:15:10,200
-program actually runs and then our
-
-236
-00:15:07,350 --> 00:15:12,720
-secondary and only a slightly lower
-
-237
-00:15:10,200 --> 00:15:14,220
-level is is this entertaining is this
-
-238
-00:15:12,720 --> 00:15:15,720
-interesting is this going to hold
-
-239
-00:15:14,220 --> 00:15:18,510
-someone's attention are they going to
-
-240
-00:15:15,720 --> 00:15:20,220
-want to play this the bottom line was
-
-241
-00:15:18,510 --> 00:15:23,100
-Spearman was a lot of fun for all of us
-
-242
-00:15:20,220 --> 00:15:26,130
-we had a lot of fun playing with it and
-
-243
-00:15:23,100 --> 00:15:29,600
-kids we had they just ate it up and they
-
-244
-00:15:26,130 --> 00:15:29,600
-couldn't wait to come back the next time
-
-245
-00:15:35,320 --> 00:15:37,380
-you
-
+[Loud snoring]
+[Laughing]
+Oh it's fun being in audio, isn't it?
+
+15
+00:09:26,550 --> 00:10:29,790
+Let us find the north.
+The north.
+I will help you at the wall.
+Let us find the north.
+[Burp]
+That would be totally cool.
+We should have different zooms on the four different people.
+Yes, exactly.
+It should flash between all of us.
+Hello little chap.
+
+16
+00:11:47,900 --> 00:12:37,010
+DAVID GOLDBERG:
+I've always been fascinated by the mystery and grandeur of the
+pyramids in ancient Egypt and to get a chance to do that in
+miniature in a way that we can actually sort of get our hands on it
+is very interesting.
+It's also a lot of fun, you kind of feel when you're building these
+things that you're doing something that somebody else did 4 500 years
+ago.
+On the overall table I think we had something like 50 or 60 each of
+several different kinds of tents as well as about 45 or 50 individual
+buildings and maybe 300 palm trees.
+To finish off the landscape on the table we covered the entire
+landscape with about three tons of sand that was then dressed in
+around the pyramid all the little structures.
+Nothing looks like sand except sand.
+
+17
+00:12:38,180 --> 00:13:05,660
+MIKE SHEA:
+The most difficult technical element of this project was to interface
+the Dream Quest motion control system with the different various
+techniques that we're using to grab the frames for displaying on the
+CD-ROM.
+So there's a lot of things that we're learning now that we haven't
+had to in the past.
+We're applying everything we do know about making feature films in
+television movies but the technical aspects are actually quite
+different.
+
+18
+00:13:04,430 --> 00:13:18,730
+DAVID MCCULLOUGH:
+I feel really good about the collaboration between dream quest and
+knowledge adventure.
+I feel that we're working as a team, not as two separate companies.
+Everybody's been really wonderful and we're all trying to solve
+the same problems together.
+
+19
+00:13:32,410 --> 00:14:02,560
+CHERYL WEINER:
+When I first saw Pyramid it took my breath away.
+I knew we wanted to publish it.
+What could be more fun for kids than building a pyramid, and in the
+process they would learn about ancient egypt: its culture, its people,
+and its technology.
+Education was the goal, entertainment was the way to get there.
+The McGraw-Hill Home Interactive team was convinced that we could
+make Pyramid into a product that would stand the test of time and
+lead to other exciting products.
+
+20
+00:14:10,819 --> 00:14:46,460
+PHILIP BOUCHARD:
+As producer for McGraw-Hill, I focused on making sure that this
+great product design lived up to its full potential.
+We focused on several key questions:
+    Are the goals of the game clear?
+    Are the puzzles the right difficulty?
+    Does a dialogue make sense?
+    Are there plenty of clues available?
+    Are there lots of fascinating educational tidbits to discover?
+    And most important: Do the players enjoy the experience?
+When we could say "definitely yes" to all these questions then we
+knew that the game was ready.
+
+21
+00:14:54,360 --> 00:15:29,600
+STEVE WHITE:
+In quality assurance we test the program by looking at the program
+code and by testing it for hours on end.
+Our major concern is looking at whether the program actually runs,
+and then our secondary and only a slightly lower
+level is: Is this entertaining? Is this interesting? Is this going
+to hold someone's attention? Are they going to want to play this?
+The bottom line was, Pyramid was a lot of fun for all of us.
+We had a lot of fun playing with it, and the kids we had, they just
+ate it up and they couldn't wait to come back the next time.
