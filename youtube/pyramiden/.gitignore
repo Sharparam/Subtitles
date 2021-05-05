@@ -1,0 +1,4 @@
+# For Pyramiden, the ASS files are considered the source,
+# any other subtitle format is exported from the ASS file.
+*.vtt
+*.srt
